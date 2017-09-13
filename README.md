@@ -2,4 +2,4 @@
 Jyle's Portfolio
 
 Check out all my projects at:
-jylevergara.github.io
+https://jylevergara.github.io
