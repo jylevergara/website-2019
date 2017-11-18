@@ -1,8 +1,14 @@
 .btn-primary {
-    /* color: #fff;
-    border-color: #f05f40; */
-    background-color: rgba(45, 47, 47, 0.3);
-}
+    background-color: rgb(252, 246, 246);
+    border-color: #ccc;
+    opacity: 0.8;
+ }
+    .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+      color: #fff;
+      background-color: #ccc !important;
+     }
+    .btn-primary:active, .btn-primary:focus {
+      box-shadow: 0 0 0 0.2rem rgba(13, 122, 140, 0.56) !important; }
 
  #logo {
     max-width: 30px;
@@ -21,10 +27,24 @@ hr {
     border-color: rgba(13, 122, 140, 0.56);
 }
 
-a,
+
 .text-primary {
-color: #04c1c9 !important;
+color: #e41c6d !important;
 }
+
+a {
+    color: #e41c6d !important;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    transition: all 0.2s; 
+}
+    a:focus, a:hover {
+    color: #04c1c9 !important;
+    }
+
+    .portfolio-box .portfolio-box-caption {
+        background:rgba(11, 108, 122, 0.836);
+    }
 
 #profilepic {
     border: 3px solid rgba(255,255,255,.7);
