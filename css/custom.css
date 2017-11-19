@@ -123,6 +123,14 @@ a {
     margin-top: 20px;
 }
 
+.col-lg-4 {
+    margin: auto;
+}
+
+.portfolio-box {
+    margin: 0 10px;
+}
+
 footer {
     text-align: center;
 }
