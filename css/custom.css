@@ -56,7 +56,12 @@
             color: #212529; }
             #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
             #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-              color: #04c1c9 } }
+              color: #04c1c9 } 
+}
+
+header.masthead {
+    background-image: url(/img/header.jpg)
+}
               
 .btn-primary {
     background-color: rgb(252, 246, 246);
