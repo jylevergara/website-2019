@@ -59,6 +59,9 @@
               color: #04c1c9 } 
 }
 
+.languages {
+    display: inline-block;
+}
               
 .btn-primary {
     background-color: rgb(252, 246, 246);
