@@ -164,6 +164,10 @@ footer > div.social-links > a {
     display: block;
 }
 
+.carousel-item {
+    line-height: 40px;
+}
+
 #quote-carousel {
     padding: 0 10px 30px 10px;
     margin-top: 60px;
@@ -195,6 +199,8 @@ footer > div.social-links > a {
     overflow: hidden;
     transition: all .4s ease-in;
     vertical-align: middle;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
 }
 #quote-carousel .carousel-indicators .active {
     margin: 0;
