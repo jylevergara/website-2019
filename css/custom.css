@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
 #mainNav {
     border-bottom: 1px solid rgba(33, 37, 41, 0.1);
     background-color: #fff;
@@ -129,6 +132,8 @@ a {
 
 #about-me {
     margin: 20px 0 80px 0;
+    font-size: 14pt;
+    font-family: 'Roboto','Helvetica Neue', Arial, sans-serif;
 }
 
 .col-lg-4 {
@@ -225,6 +230,7 @@ footer {
 }
 
 footer .footnote {
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
     font-size: 10pt;
     color: #8F9AA7;
     margin-top: 35px;
