@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bf657fd-abbe-4927-953a-f886da182247" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-homepage-original.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/Coming-Soon/common-css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/landing-page/Coming-Soon/common-css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="79" column="46" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
+            <state relative-caret-position="75">
+              <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -38,8 +40,59 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/landing-page/js/bootstrap.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/landing-page/Coming-Soon/common-css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="3641" selection-start-line="3641" selection-end-line="3641" />
+              <folding>
+                <element signature="e#43293#43540#2" expanded="true" />
+                <element signature="e#43951#44271#2" expanded="true" />
+                <element signature="e#44675#44964#2" expanded="true" />
+                <element signature="e#70389#70589#2" expanded="true" />
+                <element signature="e#70726#70875#2" expanded="true" />
+                <element signature="e#71041#71187#2" expanded="true" />
+                <element signature="e#71855#72018#1" expanded="true" />
+                <element signature="e#85931#86174#2" expanded="true" />
+                <element signature="e#87136#87385#2" expanded="true" />
+                <element signature="e#119974#120161#2" expanded="true" />
+                <element signature="e#120216#120405#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="3643" column="96" selection-start-line="3643" selection-start-column="96" selection-end-line="3643" selection-end-column="96" />
+              <caret line="5137" column="76" selection-start-line="5137" selection-start-column="76" selection-end-line="5137" selection-end-column="76" />
+              <caret line="5141" column="76" selection-start-line="5141" selection-start-column="76" selection-end-line="5141" selection-end-column="76" />
+              <caret line="3016" column="76" selection-start-line="3016" selection-start-column="76" selection-end-line="3016" selection-end-column="76" />
+              <caret line="3021" column="76" selection-start-line="3021" selection-start-column="76" selection-end-line="3021" selection-end-column="76" />
+              <caret line="3029" column="76" selection-start-line="3029" selection-start-column="76" selection-end-line="3029" selection-end-column="76" />
+              <caret line="3055" column="75" selection-start-line="3055" selection-start-column="75" selection-end-line="3055" selection-end-column="75" />
+              <caret line="3603" column="96" selection-start-line="3603" selection-start-column="96" selection-end-line="3603" selection-end-column="96" />
+              <folding>
+                <element signature="e#56516#56716#2" expanded="true" />
+                <element signature="e#56853#57002#2" expanded="true" />
+                <element signature="e#57168#57314#2" expanded="true" />
+                <element signature="e#57826#57989#1" expanded="true" />
+                <element signature="e#69935#70184#2" expanded="true" />
+                <element signature="e#99569#99756#2" expanded="true" />
+                <element signature="e#99811#100000#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -72,65 +125,6 @@
             <path>
               <item name="jylevergara-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="jylevergara-website" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jylevergara-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jylevergara-website" type="462c0819:PsiDirectoryNode" />
-              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jylevergara-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jylevergara-website" type="462c0819:PsiDirectoryNode" />
-              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
-              <item name="Coming-Soon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jylevergara-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jylevergara-website" type="462c0819:PsiDirectoryNode" />
-              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
-              <item name="Coming-Soon" type="462c0819:PsiDirectoryNode" />
-              <item name="04-comming-soon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jylevergara-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jylevergara-website" type="462c0819:PsiDirectoryNode" />
-              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
-              <item name="Coming-Soon" type="462c0819:PsiDirectoryNode" />
-              <item name="04-comming-soon" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jylevergara-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jylevergara-website" type="462c0819:PsiDirectoryNode" />
-              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
-              <item name="Coming-Soon" type="462c0819:PsiDirectoryNode" />
-              <item name="common-css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jylevergara-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jylevergara-website" type="462c0819:PsiDirectoryNode" />
-              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
-              <item name="Coming-Soon" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jylevergara-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jylevergara-website" type="462c0819:PsiDirectoryNode" />
-              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jylevergara-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jylevergara-website" type="462c0819:PsiDirectoryNode" />
-              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jylevergara-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jylevergara-website" type="462c0819:PsiDirectoryNode" />
-              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -174,10 +168,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="663000" />
+    <option name="totallyTimeSpent" value="668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="812" extended-state="6" />
+    <frame x="-1" y="122" width="1440" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -216,8 +210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="79" column="46" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
+        <state relative-caret-position="75">
+          <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
